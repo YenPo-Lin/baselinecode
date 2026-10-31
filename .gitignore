@@ -1,0 +1,15 @@
+# Python caches and local environments
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+
+# Local data and system files
+*.npz
+.DS_Store
+
+# Generated spectrum figures
+Azi_ToF/
+Azi_Doppler/
+ToF_Doppler/
+Azi_ToF_Doppler/
